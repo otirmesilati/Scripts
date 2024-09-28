@@ -1,5 +1,7 @@
 :: Launching Programs
 
+@echo off
+
 Start wt.exe
 Start Chrome.exe
 Start Explorer
