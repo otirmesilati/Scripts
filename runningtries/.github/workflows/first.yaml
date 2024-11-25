@@ -1,0 +1,17 @@
+name: List Files on Main Commit
+
+on:
+  push:
+    branch:
+      - main
+      
+jobs: 
+  list-files:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      users: actions/checkout@v3
+
+    - name: Run ls -l
+      run: ls -l
