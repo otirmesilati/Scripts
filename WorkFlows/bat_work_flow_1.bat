@@ -9,9 +9,10 @@ Start git-bash
 Start explorer "C:\users\otirm_2hwnj4i\Desktop"
 Start explorer "C:\users\otirm_2hwnj4i\Documents\GitHub"
 
-REM opening mail + automation tools on power-on
+REM opening mail + automation tools on power-on + sesonal choices(chrome acts as a more casual web browser)
 Start Chrome.exe https://mail.google.com/mail 
 Start Chrome.exe http://localhost:8080/
+Start Chrome.exe https://drive.google.com/drive/folders/1CrfpU0yT7Znivsye9VCKP-DgwJw-2CCa
 
 REM opening version control browser dashboards
 Start Brave.exe https://github.com/otirmesilati
