@@ -10,7 +10,8 @@ Start explorer "C:\users\otirm_2hwnj4i\Desktop"
 Start explorer "C:\users\otirm_2hwnj4i\Documents\GitHub"
 
 REM opening mail + Web-DashBoarded DevOps tools + sesonal choices(chrome acts as a more casual web browser)
-Start Chrome.exe https://mail.google.com/mail 
+Start Chrome.exe https://mail.google.com/mail
+Start Chrome.exe https://chatgpt.com/ 
 Start Chrome.exe http://localhost:8080/
 Start Chrome.exe https://eu-north-1.console.aws.amazon.com/console/home?region=eu-north-1#
 Start Chrome.exe https://www.udemy.com/home/my-courses/learning/
