@@ -22,6 +22,7 @@ Start Chrome.exe file:///C:/Users/otirm_2hwnj4i/Downloads/Devops%20-%20%D7%9E%D7
 REM opening version control browser dashboards
 Start Brave.exe https://github.com/otirmesilati
 Start Brave.exe https://codeberg.org/Otyr?tab=activity
+Start Brave.exe https://hub.docker.com/
 
 REM opening preferable dev tools
 Start notepad++.exe
