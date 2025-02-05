@@ -4,7 +4,7 @@
 
 REM opening shells, later - maybe theres a command for opening the frame with both lnx + psh together?
 Start wt.exe
-Start git-bash
+REM Start git-bash (no need - gitflow can be used through the terminal)
 
 Start explorer "C:\users\otirm_2hwnj4i\Desktop"
 Start explorer "C:\users\otirm_2hwnj4i\Documents\GitHub"
